@@ -40,7 +40,7 @@ A deep learning image classification workflow built in **Edge Impulse Studio** u
 
 ## How to View & Test Live
 
-1. Open the public project directly in [Edge Impulse Studio](https://edgeimpulse.com).
+1. Open the public project directly in [Edge Impulse Studio](https://studio.edgeimpulse.com/public/1164362/live)).
 2. Click **Clone this project** to inspect the Impulse design, confusion matrix, and training settings in your own account.
 3. Navigate to **Deployment -> Launch in browser** (or **Live classification**) to test predictions on static hand-sign images.
 
